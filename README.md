@@ -1,13 +1,8 @@
-<h1>Olá 👋 Sou Jhonatan Morais</h1>
-<p>desenvolvedor entusiasta apaixonado por resolver problemas e criar soluções através da programação. Atualmente, estou focado em [área de interesse ou tecnologia], buscando aprender e aplicar novos conceitos em meus projetos.</p>
-
-<h1>💼 O que estou trabalhando atualmente:</h2>
-    <ul>
-        <li>Desenvolvimento de um sistema PDV web do zero.</li>
-        <li>Criando um programa para registro e análise de compras de mercado usando Python.</li>
-    </ul>
-
-## Linguagens e Ferramentas
+## Olá 👋 Sou Jhonatan Morais
+<p>desenvolvedor entusiasta apaixonado por resolver problemas e criar soluções através da programação.</p>
+💼 Estou trabalhando atualmente:
+   <p>Desenvolvimento de um sistema PDV web do zero com uma equipe, entre outros projetos.</p>
+    
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
   <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
