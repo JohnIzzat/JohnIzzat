@@ -17,7 +17,7 @@
 <br>
 
    <div>
-      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=JohnIzzat&show_icons=true&theme=radical"/>
    </div>
 
 <div> 
